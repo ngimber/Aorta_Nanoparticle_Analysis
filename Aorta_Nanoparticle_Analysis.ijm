@@ -1,6 +1,3 @@
-//runs on 10.39.28.130
-
-
 noise=2;
 fftMax=1;
 fftMin=0;
